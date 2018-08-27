@@ -6,3 +6,5 @@ Voldemort
 Snape
 sirius
 Dumbludore
+luna
+tom
